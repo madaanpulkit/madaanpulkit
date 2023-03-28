@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=madaanpulkit.github.io&style=for-the-badge&url=https%3A%2F%2Fmadaanpulkit.github.io)](https://madaanpulkit.github.io)
 
-[![Pulkit's GitHub stats](https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000)](https://github.com/madaanpulkit/github-readme-stats)
+[![Pulkit's GitHub stats](https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Building AI solutions to real-world problems
 #### MSE CS @ JHU | Ex Associate ML Scientist-I @ Wadhani AI | IIITD '20 (CS/Math) | Mitacs GRI '19
