@@ -41,8 +41,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/madaanpulkit/madaanpulkit/blob/content/imgs/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madaanpulkit/madaanpulkit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madaanpulkit/madaanpulkit/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>  
+  
 ###
 
 <br clear="both">
