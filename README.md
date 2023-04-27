@@ -1,21 +1,58 @@
-# Hi there, I'm Pulkit 👋
+<h1 align="left">Hi there, I'm Pulkit 👋</h1>
 
-[![Website](https://img.shields.io/website?label=madaanpulkit.github.io&style=for-the-badge&url=https%3A%2F%2Fmadaanpulkit.github.io)](https://madaanpulkit.github.io)
+###
 
-[![Pulkit's GitHub stats](https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both">
 
-# Building AI solutions to real-world problems
-#### MSE CS @ JHU | Ex Associate ML Scientist-I @ Wadhani AI | IIITD '20 (CS/Math) | Mitacs GRI '19
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madaanpulkit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It's not just Jupyter" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-- 🔭 I’m currently working on 
-  - detecting malarial parasites in slides
-  - better sentence representations
-- 🌱 I’m currently learning
-  - Computer Vision
-  - Network Security
-- 👯 I’m looking to collaborate on Deep Learning Research
-- 🤔 I’m looking for help with sponsored job search in USA
-- 💬 Ask me about animes, Amish, getting started with ML
+###
+
+<h2 align="left">Building AI solutions to real-world problems</h2>
+
+###
+
+<h4 align="left">MSE CS @ JHU | Ex Associate ML Scientist-I @ Wadhani AI | IIITD '20 (CS/Math) | Mitacs GRI '19</h4>
+
+###
+
+<p align="left">- 🔭 I’m currently working on <br>  - detecting malarial parasites in slides<br>  - better sentence representations<br>- 🌱 I’m currently learning<br>  - Computer Vision<br>  - Network Security<br>- 👯 I’m looking to collaborate on Deep Learning Research<br>- 🤔 I’m looking for help with sponsored job search in USA<br>- 💬 Ask me about animes, Amish, getting started with ML</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/madaanpulkit/madaanpulkit/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+</div>
+
+###
 
 ### Connect with me
 
