@@ -5,9 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
 </div>
 
 ###
@@ -20,8 +20,26 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <br>  - detecting malarial parasites in slides<br>  - better sentence representations<br>- 🌱 I’m currently learning<br>  - Computer Vision<br>  - Network Security<br>- 👯 I’m looking to collaborate on Deep Learning Research<br>- 🤔 I’m looking for help with sponsored job search in USA<br>- 💬 Ask me about animes, Amish, getting started with ML</p>
+<p align="left">
+  <ul>
+  <li> 🔭 I’m currently working on </li>
+    <ul>
+      <li> detecting malarial parasites in slides </li>  
+      <li> better sentence representations </li>
+    </ul>
+  <li>🌱 I’m currently learning </li>
+    <ul>
+      <li> Trustworthy AI </li>  
+      <li> ML System Design </li>  
+      <li> AI Ethics </li>
+    </ul>
+  <li> 👯 I’m looking to collaborate on Deep Learning Research </li>
+  <li> 🤔 I’m looking for help with sponsored job search in USA </li> 
+  <li> 💬 Ask me about animes, Amish, getting started with ML </li>
+  </ul>
+</p>
 
+<!--
 ###
 
 <br clear="both">
@@ -59,6 +77,7 @@
 </div>
 
 ###
+-->
 
 ### Connect with me
 
