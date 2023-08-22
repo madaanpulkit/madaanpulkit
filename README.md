@@ -5,9 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="100" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter" height="100" alt="languages graph"  />
 </div>
 
 ###
