@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=madaanpulkit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> <br>
   <img src="https://github-readme-stats.madaanpulkit.vercel.app/api?username=madaanpulkit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Flex" height="150" alt="stats graph"  /> &nbsp;
-  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.madaanpulkit.vercel.app/api/top-langs/?username=madaanpulkit&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&custom_title=It%27s+not+just+Jupyter+&#128529;" height="150" alt="languages graph"  />
 </div>
 
 ###
